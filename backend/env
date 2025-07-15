@@ -1,0 +1,5 @@
+MONGO_URI=mongodb://10.0.2.4:27017/todo-app
+GMAIL_USERNAME=admin@gmail.com   
+GMAIL_PASSWORD=password                                
+PORT=8000
+JWT_SECRET=1234   
